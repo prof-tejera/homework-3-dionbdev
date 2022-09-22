@@ -1,0 +1,31 @@
+.form-inner{
+    min-width: 100%;
+    position:relative; 
+    border-radius: 5px;
+    
+    padding: 20px;
+}
+
+.form-group input {
+    display: block;
+    text-align: left;
+    min-width: 100%;
+    margin: 0 0 5px 0;
+}
+.form-button {
+    color: white;
+    background-color: lightblue;
+    min-width: 100%;
+    border-radius: 3px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.checkBox {
+    color: blue;
+    
+    min-width: 100%;
+    border-radius: 3px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+}

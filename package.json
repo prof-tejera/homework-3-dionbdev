@@ -1,4 +1,5 @@
 {
+  "homepage": "https://prof-tejera.github.io/homework-3-dionbdev",
   "name": "homework-3",
   "version": "0.1.0",
   "private": false,
@@ -11,9 +12,11 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --passWithNoTests",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
