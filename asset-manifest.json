@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/homework-3-dionbdev/static/css/main.21a977ce.css",
+    "main.js": "/homework-3-dionbdev/static/js/main.ad9c9144.js",
+    "index.html": "/homework-3-dionbdev/index.html",
+    "main.21a977ce.css.map": "/homework-3-dionbdev/static/css/main.21a977ce.css.map",
+    "main.ad9c9144.js.map": "/homework-3-dionbdev/static/js/main.ad9c9144.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21a977ce.css",
+    "static/js/main.ad9c9144.js"
+  ]
+}
