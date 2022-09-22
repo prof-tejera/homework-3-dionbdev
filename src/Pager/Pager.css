@@ -1,0 +1,10 @@
+.pagination {
+    display: inline-block;
+  }
+
+  .pagination a {
+    color: orange;
+    float: left;
+    padding: 8px 16px;
+    
+  }

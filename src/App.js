@@ -26,7 +26,7 @@ const App = () => {
       <div className="App-component">
         <header className="App-header">Pager component (TODO)</header>
         <div className="App-content">
-          <Pager />
+          <Pager itemsPerPage={5} totalItems={100} paginate={5} />
         </div>
       </div>
 
